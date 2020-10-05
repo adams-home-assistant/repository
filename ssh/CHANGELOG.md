@@ -2,8 +2,7 @@
 
 ### 🔨 Changes
 
-- ⬆ Upgrades add-on base image to v8.0.2
-- ✨ Add support for the new media folder
+- ✨ Add support for a git user and and automation user
 
 [changelog]: https://github.com/hassio-addons/addon-ssh/compare/v7.5.2...v7.6.0
 
